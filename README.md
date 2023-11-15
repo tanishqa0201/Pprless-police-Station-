@@ -1,3 +1,3 @@
 # Pprless-police-Station
 Maintains police station records online.
-Uses Spring hibernate.
+Uses Struts and hibernate.
